@@ -1,0 +1,20 @@
+.form-container{
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+.courses-container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.flex{
+    gap: 20px;
+}
+
+.card{
+    background-color: brown;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
